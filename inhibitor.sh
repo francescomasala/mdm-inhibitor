@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Variables 
-VERSION="0.4.9"
+VERSION="beta-0.1"
 
 # Banner Function (Shows the banner lol)
 function banner {
